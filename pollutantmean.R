@@ -10,7 +10,7 @@
 pollutantmean <- function(directory, pollutant, id = 1:332) {
         
         # Set the path
-        path = "/Users/sdenis/Desktop/Rprogramming/specdata"
+        path = "/Users/sdenis/Desktop/Rprogramming/2_Programming_R/ProgrammingAssignment1/specdata"
         
         # Get the file list in that directory
         fileList = list.files(path)
